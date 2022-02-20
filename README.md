@@ -9,4 +9,5 @@ For this generation of individuals on the cusp of this transformation, how can w
 
 My Solution and Design : 
 Link to Design in Figma -> https://www.figma.com/file/iq3BPDgK0VThoyLTPWYZJm/MS-Design-Challenge?node-id=0%3A1
+<br>
 Link to My Prototype -> https://www.figma.com/file/iq3BPDgK0VThoyLTPWYZJm/MS-Design-Challenge?node-id=46%3A224
