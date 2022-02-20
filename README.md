@@ -11,3 +11,5 @@ For this generation of individuals on the cusp of this transformation, how can w
 My Solution and Design : 
 <br>
 Link to Design in Figma -> https://www.figma.com/file/iq3BPDgK0VThoyLTPWYZJm/MS-Design-Challenge?node-id=0%3A1
+
+[Khanjan Parikh_Project DESIGN CHALLENGE.pdf](https://github.com/Khanjan27Parikh/MIcrosoft-Design-Challenge/files/8104687/Khanjan.Parikh_Project.DESIGN.CHALLENGE.pdf)
